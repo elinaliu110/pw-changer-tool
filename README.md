@@ -39,7 +39,7 @@ cd src
 python PasswordChanger.py
 ```
 ### 3. Input Format Examples
-![InputExample](images/InputExample.png)
+![InputExample](image/InputExample.png)
 
 Email Input:
 ```bash
